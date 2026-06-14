@@ -81,7 +81,7 @@ COMMAND:noclip(playerid)
 ## Credits
 
 - **Southclaws** – Original noclip codebase  
-- **xWendorion** – Refactor, optimization, include version
+- **BravesDev** – Refactor, optimization, include version
 
 ---
 
