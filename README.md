@@ -1,6 +1,6 @@
 # SA-MP Noclip Include v0.2.4
 
-> Based on original code by Southclaws. Refactored and modularized by xWendorion.
+> Based on original code by Southclaws. Refactored and modularized by BravesDev.
 
 ## Overview
 
